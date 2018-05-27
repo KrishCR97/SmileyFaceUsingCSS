@@ -1,0 +1,35 @@
+.smileyContainer{
+    border: 1px solid black;
+    background: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.leftEye{
+    border: 1px solid black;
+    background: black;
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 66px;
+}
+
+.rightEye{
+    border: 1px solid black;
+    background: black;
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+.smile{
+    border: 1px solid black;
+    
+}
